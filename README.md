@@ -65,7 +65,7 @@ Seaborn
 Scikit-learn
 
 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
 
 Acknowledgments
 Dataset provided by the UCI Machine Learning Repository.
