@@ -59,17 +59,7 @@ Pandas
 Matplotlib
 Seaborn
 Scikit-learn
-You can install the required libraries using:
 
-bash
-Αντιγραφή κώδικα
-pip install -r requirements.txt
-How to Use
-Clone the repository:
-bash
-Αντιγραφή κώδικα
-git clone https://github.com/TasosMpag/Red-Wine.git
-Open the Jupyter Notebook and execute the cells sequentially to replicate the analysis and results.
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
