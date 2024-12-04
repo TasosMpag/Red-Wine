@@ -2,7 +2,7 @@ Wine Quality Prediction
 This repository contains an end-to-end machine learning solution to predict the quality of red wine based on its characteristics, as described in the associated Jupyter Notebook (Wine_Quality_Prediction.ipynb). The project is based on a dataset from the UCI Machine Learning Repository and follows a structured approach to data analysis, preprocessing, model training, and evaluation.
 
 Dataset
-The dataset used in this project is the Wine Quality Dataset, which contains information about physicochemical properties (features) of red wines and their respective quality ratings. You can access the dataset here.
+The dataset used in this project is the Wine Quality Dataset, which contains information about physicochemical properties (features) of red wines and their respective quality ratings.
 
 Key Features
 Predictors (Input Features): Various physicochemical properties such as acidity, sugar content, pH, and alcohol level.
